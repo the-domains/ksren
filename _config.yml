@@ -10,6 +10,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.3132832
 color:
   saturation: 0.8345864
   brandStrength: 0
@@ -21,6 +22,5 @@ color:
     - '#6A525F'
     - '#8B8891'
   rhythmicContrast: 0.5206767
-typography_spectrum: 0.3132832
-layout_spectrum: 0.943609
+layout_spectrum: 0.5119048
 name: Kåsøren
