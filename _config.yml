@@ -1,14 +1,26 @@
-layout_spectrum: 0.5281955
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.3132832
 color:
-  saturation: 0.1269342
-  lightness: 0.1738706
+  saturation: 0.6716792
   brandStrength: 0.8602757
+  lightness: 0.4116541
   brandColors:
     - '#F2FEE8'
     - '#240725'
     - '#A5AEB5'
     - '#6A525F'
     - '#8B8891'
-  rhythmicContrast: 0.8150345
+  rhythmicContrast: 0.7738096
+layout_spectrum: 0.5281955
 name: Kåsøren
