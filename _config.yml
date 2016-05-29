@@ -1,0 +1,14 @@
+layout_spectrum: 0.5281955
+typography_spectrum: 0.3132832
+color:
+  saturation: 0.1269342
+  lightness: 0.1738706
+  brandStrength: 0.8602757
+  brandColors:
+    - '#F2FEE8'
+    - '#240725'
+    - '#A5AEB5'
+    - '#6A525F'
+    - '#8B8891'
+  rhythmicContrast: 0.8150345
+name: Kåsøren
