@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.3132832
 color:
-  saturation: 0.6716792
+  saturation: 0.8345864
   brandStrength: 0.4962406
-  lightness: 0.4116541
+  lightness: 0.5137845
   brandColors:
     - '#F2FEE8'
     - '#240725'
     - '#A5AEB5'
     - '#6A525F'
     - '#8B8891'
-  rhythmicContrast: 0.7738096
+  rhythmicContrast: 0.5206767
 layout_spectrum: 0.943609
 name: Kåsøren
