@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.3132832
 color:
   saturation: 0.6716792
   brandStrength: 0.4962406
@@ -21,6 +22,5 @@ color:
     - '#6A525F'
     - '#8B8891'
   rhythmicContrast: 0.7738096
-typography_spectrum: 0.3132832
-layout_spectrum: 0.5281955
+layout_spectrum: 0.943609
 name: Kåsøren
